@@ -1,0 +1,1 @@
+Linux localhost.localdomain 5.15.106-un-def-alt1 #1 SMP PREEMPT Wed Apr 12 14:40:02 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
