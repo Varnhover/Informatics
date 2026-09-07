@@ -1,0 +1,15 @@
+commit 6fdc84c541c58bb1e90d32102b3acc260895c930
+Author: NVerner <verner.no@phystech.edu>
+Date:   Mon Sep 7 10:12:45 2026 +0300
+
+    Revert "5c"
+    
+    This reverts commit fbbcdf8ba0891c6ff169387c6b6366c68ab0df37.
+
+diff --git a/scripts/helo.sh b/scripts/helo.sh
+deleted file mode 100644
+index 5e9092c..0000000
+--- a/scripts/helo.sh
++++ /dev/null
+@@ -1 +0,0 @@
+-echo "H develop!"
