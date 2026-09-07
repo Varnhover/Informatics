@@ -1,0 +1,10 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.1  0.0 191348  5600 ?        Ss   09:05   0:01 /usr/lib/systemd/systemd --switched-root --system --deserialize 22
+root         2  0.0  0.0      0     0 ?        S    09:05   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   09:05   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   09:05   0:00 [rcu_par_gp]
+root      3908  0.0  0.0      0     0 ?        I    09:18   0:00 [kworker/u8:1-ev]
+root      4081  0.0  0.0      0     0 ?        I    09:19   0:00 [kworker/3:1-eve]
+root      4104  0.0  0.0      0     0 ?        I    09:20   0:00 [kworker/0:1-mm_]
+root      4156  0.0  0.0 108068   648 ?        S    09:20   0:00 sleep 60
+student   4173  0.0  0.0 155496  3976 pts/0    R+   09:21   0:00 ps aux

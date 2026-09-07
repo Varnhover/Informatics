@@ -1,0 +1,12 @@
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        3.8G     0  3.8G   0% /dev
+tmpfs           3.9G   12K  3.9G   1% /dev/shm
+tmpfs           3.9G   22M  3.9G   1% /run
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/sda6        48G   39G  9.1G  82% /
+/dev/sda7        48G   35G   14G  73% /home-local
+/dev/sda5       139G  100G   40G  72% /win10
+tmpfs           783M   32K  783M   1% /run/user/1001
+35G	/home-local/student
+/home-local/student/task1
+/home-local/student/task1/data/processes.txt
